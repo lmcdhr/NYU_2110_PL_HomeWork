@@ -16,7 +16,7 @@
 
     read from txt file, then run the sorting. Finally output the sum and the array
 
- 2. procedures and tasks
+ 2.  procedures and tasks
  
     	1. Procedure Read
 
